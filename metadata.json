@@ -1,0 +1,6 @@
+{
+  "name": "PanelBot Manager",
+  "description": "Painel de controle e gerenciador de bots Discord para servidores paneleiros com carregador de templates /load dog_cyb, canais estilizados, cargos e embeds personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
